@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Logan Lebanoff"
-  role = "Ph. D. Student in Natural Language Processing"
+  role = "Ph.D. Student in Natural Language Processing"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -231,15 +231,15 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:loganlebanoff@knights.ucf.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = ""
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = ""
 
   [[params.social]]
     icon = "github"
