@@ -1,0 +1,1 @@
+Copy-item -Force -Recurse -Verbose -Path "C:\Users\Logan Lebanoff\Dropbox\Research\website\loganlebanoff.github.io\public\*" -Destination "C:\Users\Logan Lebanoff\Dropbox\Research\website\loganlebanoff.github.io"
