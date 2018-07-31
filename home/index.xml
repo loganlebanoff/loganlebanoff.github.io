@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Logan Lebanoff</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Logan Lebanoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -19,7 +19,7 @@
       
       <guid>/home/about/</guid>
       <description>Biography Hi! My name is Logan Lebanoff and I am a 3rd-year Ph.D. student in Computer Science at the University of Central Florida. My research interests include Natural Language Processing, Automatic Text Summarization, and Deep Learning. I am currently under the advisement of Dr. Fei Liu in the UCF NLP group.
-My current research is on abstract summarization of news articles. More specifically, I am working on multi-document summarization, which seeks to take a cluster of multiple articles and create one summary.</description>
+My current research is on abstractive summarization of news articles. More specifically, I am working on multi-document summarization, which seeks to take a cluster of multiple articles and create one summary.</description>
     </item>
     
     <item>

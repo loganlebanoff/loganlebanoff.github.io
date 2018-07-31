@@ -27,4 +27,4 @@ weight = 5
 
 Hi! My name is Logan Lebanoff and I am a 3rd-year Ph.D. student in Computer Science at the University of Central Florida. My research interests include Natural Language Processing, Automatic Text Summarization, and Deep Learning. I am currently under the advisement of [Dr. Fei Liu](http://www.cs.ucf.edu/~feiliu/) in the [UCF NLP group](http://www.nlp.cs.ucf.edu/).
 
-My current research is on abstract summarization of news articles. More specifically, I am working on multi-document summarization, which seeks to take a cluster of multiple articles and create one summary. This requires special care to emphasize the most important information, while also avoiding redundancy that is common in multi-document clusters.
+My current research is on abstractive summarization of news articles. More specifically, I am working on multi-document summarization, which seeks to take a cluster of multiple articles and create one summary. This requires special care to emphasize the most important information, while also avoiding redundancy that is common in multi-document clusters.
