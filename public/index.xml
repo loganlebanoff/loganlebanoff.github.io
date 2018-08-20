@@ -10,5 +10,35 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization</title>
+      <link>/publication/pg_mmr/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/pg_mmr/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection of Vague Words and Sentences in Privacy Policies</title>
+      <link>/publication/vagueness/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/vagueness/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstract Meaning Representation for Multi-Document Summarization</title>
+      <link>/publication/amr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/amr/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

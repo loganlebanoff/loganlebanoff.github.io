@@ -1,10 +1,10 @@
 +++
-title = "Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization"
+title = "Automatic Detection of Vague Words and Sentences in Privacy Policies"
 date = 2018-08-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Logan Lebanoff", "Kaiqiang Song", "Fei Liu"]
+authors = ["Logan Lebanoff",  "Fei Liu"]
 
 # Publication type.
 # Legend:
@@ -22,14 +22,14 @@ publication = "In Proceedings of the 2018 Conference on Empirical Methods in Nat
 publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Generating an abstract from a set of relevant documents remains challenging. Despite the development of the neural encoder-decoder framework, prior studies focus primarily on single-document summarization, possibly because labelled training data can be automatically harvested from the Web. Nevertheless, labelled data for multi-document summarization are scarce. There is thus an increasing need to adapt the encoder-decoder framework from single- to multiple-document summarization in an unsupervised fashion. In this paper we present an initial investigation into a novel adaptation method. It exploits the maximal marginal relevance method to select representative sentences from multi-document input, and an abstractive encoder-decoder model to fuse disparate sentences to an abstractive summary. The adaptation method is robust and itself requires no training data. Our system compares favorably to state-of-the-art extractive and abstractive approaches judged by both automatic metrics and human assessors."
-abstract_short = "In this paper we present an initial investigation into a novel adaptation method. It exploits the maximal marginal relevance method to select representative sentences from multi-document input, and an abstractive encoder-decoder model to fuse disparate sentences to an abstractive summary."
+abstract = "Website privacy policies represent the single most important source of information for users to gauge how their personal data are collected, used and shared by companies. However, privacy policies are often vague and people struggle to understand the content. Their opaqueness poses a significant challenge to both Internet users and policy regulators. In this paper, we seek to identify vague content in privacy policies. We construct the first corpus of human-annotated vague words and sentences and present empirical studies on automatic vagueness detection. We investigate context-aware and context-agnostic models for predicting vague words, and explore auxiliary-classifier generative adversarial networks for characterizing sentence vagueness. Our experimental results demonstrate the effectiveness of proposed approaches. Finally, we provide suggestions for resolving vagueness and improving the usability of privacy policies."
+abstract_short = "In this paper, we seek to identify vague content in privacy policies. We construct the first corpus of human-annotated vague words and sentences and present empirical studies on automatic vagueness detection."
 
 # Featured image thumbnail (optional)
-image_preview = "framework_pg_mmr.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
