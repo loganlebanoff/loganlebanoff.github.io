@@ -287,6 +287,11 @@ enableGitInfo = false
 #  weight = 5
 
 [[menu.main]]
+  name = "Data"
+  url = "data"
+  weight = 3
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6

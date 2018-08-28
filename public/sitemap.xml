@@ -59,6 +59,14 @@
     
     <url>
     
+      <loc>/data/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2018-08-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
