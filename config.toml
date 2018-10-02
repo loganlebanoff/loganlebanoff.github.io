@@ -288,7 +288,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Data"
-  url = "data"
+  url = "mydata"
   weight = 3
 
 [[menu.main]]
