@@ -66,7 +66,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "loganlebanof@knights.ucf.edu"
+  email = "loganlebanoff@knights.ucf.edu"
   address = ""
   office_hours = ""
   phone = ""
