@@ -3,6 +3,7 @@ type = "page"
 layout="data"
 aliases = [
     "/data/",
+    "/data",
     "/data/vagueness_data.tar.gz"
 ]
 +++
