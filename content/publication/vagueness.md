@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1808.06219.pdf"
+url_pdf = "http://aclweb.org/anthology/D18-1387"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
