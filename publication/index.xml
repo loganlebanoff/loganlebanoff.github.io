@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization</title>
+      <link>/publication/dpp/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/dpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scoring Sentence Singletons and Pairs for Abstractive Summarization</title>
+      <link>/publication/summarization_sing_pair_mix/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/summarization_sing_pair_mix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization</title>
       <link>/publication/pg_mmr/</link>
-      <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/pg_mmr/</guid>
       <description></description>
@@ -24,7 +42,7 @@
     <item>
       <title>Automatic Detection of Vague Words and Sentences in Privacy Policies</title>
       <link>/publication/vagueness/</link>
-      <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/vagueness/</guid>
       <description></description>
@@ -33,7 +51,7 @@
     <item>
       <title>Abstract Meaning Representation for Multi-Document Summarization</title>
       <link>/publication/amr/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/amr/</guid>
       <description></description>

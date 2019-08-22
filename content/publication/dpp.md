@@ -1,10 +1,10 @@
 +++
-title = "Scoring Sentence Singletons and Pairs for Abstractive Summarization"
+title = "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization"
 date = 2019-07-28
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Logan Lebanoff", "Kaiqiang Song", "Franck Dernoncourt", "Doo Soon Kim", "Seokhwan Kim", "Walter Chang", "Fei Liu"]
+authors = ["Sangwoo Cho", "Logan Lebanoff", "Hassan Foroosh", "Fei Liu"]
 
 # Publication type.
 # Legend:
@@ -22,14 +22,14 @@ publication = "In Proceedings of the 57th Annual Meeting of the Association for 
 publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "When writing a summary, humans tend to choose content from one or two sentences and merge them into a single summary sentence. However, the mechanisms behind the selection of one or multiple source sentences remain poorly understood. Sentence fusion assumes multi-sentence input; yet sentence selection methods only work with single sentences and not combinations of them. There is thus a crucial gap between sentence selection and fusion to support summarizing by both compressing single sentences and fusing pairs. This paper attempts to bridge the gap by ranking sentence singletons and pairs together in a unified space. Our proposed framework attempts to model human methodology by selecting either a single sentence or a pair of sentences, then compressing or fusing the sentence(s) to produce a summary sentence. We conduct extensive experiments on both single- and multi-document summarization datasets and report findings on sentence selection and abstraction."
-abstract_short = "When writing a summary, humans tend to choose content from one or two sentences and merge them into a single summary sentence. Our proposed framework attempts to model human methodology by selecting either a single sentence or a pair of sentences, then compressing or fusing the sentence(s) to produce a summary sentence."
+abstract = "The most important obstacles facing multi-document summarization include excessive redundancy in source descriptions and the looming shortage of training data. These obstacles prevent encoder-decoder models from being used directly, but optimization-based methods such as determinantal point processes (DPPs) are known to handle them well. In this paper we seek to strengthen a DPP-based method for extractive multi-document summarization by presenting a novel similarity measure inspired by capsule networks. The approach measures redundancy between a pair of sentences based on surface form and semantic information. We show that our DPP system with improved similarity measure performs competitively, outperforming strong summarization baselines on benchmark datasets. Our findings are particularly meaningful for summarizing documents created by multiple authors containing redundant yet lexically diverse expressions."
+abstract_short = "In this paper we seek to strengthen a DPP-based method for extractive multi-document summarization by presenting a novel similarity measure inspired by capsule networks. Our findings are particularly meaningful for summarizing documents created by multiple authors containing redundant yet lexically diverse expressions."
 
 # Featured image thumbnail (optional)
-image_preview = "stats_sing_pair_mix.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.aclweb.org/anthology/P19-1209"
+url_pdf = "https://www.aclweb.org/anthology/P19-1098"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
