@@ -1,6 +1,6 @@
 +++
 title = "Analyzing Sentence Fusion in Abstractive Summarization"
-date = 2019-11-04
+date = 2019-10-04
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Logan Lebanoff", "John Muchovej", "Franck Dernoncourt", "Doo Soon Ki
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing."
-publication_short = "In *EMNLP*"
+publication = "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, Workshop on New Frontiers in Summarization."
+publication_short = "In *EMNLP* Summarization Workshop"
 
 # Abstract and optional shortened version.
 abstract = "While recent work in abstractive summarization has resulted in higher scores in automatic metrics, there is little understanding on how these systems combine information taken from multiple document sentences. In this paper, we analyze the outputs of five state-of-the-art abstractive summarizers, focusing on summary sentences that are formed by sentence fusion. We ask assessors to judge the grammaticality, faithfulness, and method of fusion for summary sentences. Our analysis reveals that system sentences are mostly grammatical, but often fail to remain faithful to the original article."

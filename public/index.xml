@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Analyzing Sentence Fusion in Abstractive Summarization</title>
+      <link>/publication/faithful/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/faithful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization</title>
       <link>/publication/dpp/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 -0400</pubDate>
