@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Logan Lebanoff</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Logan Lebanoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analyzing Sentence Fusion in Abstractive Summarization</title>
+      <link>/publication/faithful/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/faithful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization</title>
+      <link>/publication/dpp/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/dpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scoring Sentence Singletons and Pairs for Abstractive Summarization</title>
+      <link>/publication/summarization_sing_pair_mix/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/summarization_sing_pair_mix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization</title>
+      <link>/publication/pg_mmr/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/pg_mmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection of Vague Words and Sentences in Privacy Policies</title>
+      <link>/publication/vagueness/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/vagueness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Meaning Representation for Multi-Document Summarization</title>
+      <link>/publication/amr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/amr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
