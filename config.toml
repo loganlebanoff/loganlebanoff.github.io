@@ -66,7 +66,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "loganlebanoff@knights.ucf.edu"
+  email = "loganlebanoff@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
@@ -229,7 +229,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:loganlebanoff@knights.ucf.edu"
+    link = "mailto:loganlebanoff@gmail.com"
 
   #[[params.social]]
   #  icon = "twitter"
