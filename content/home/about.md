@@ -33,7 +33,7 @@ weight = 5
 
 # Biography
 
-Hi! My name is Logan Lebanoff and I am an Artificial Intelligence Engineer at SoarTech in Orlando, FL. I help create NLP and deep learning solutions to the military’s toughest problems. I am deeply interested in cutting-edge natural language processing and deep learning research. 
+Hi! My name is Logan Lebanoff and I am an Artificial Intelligence Engineer at [SoarTech](https://soartech.com/) in Orlando, FL. I help develop NLP and deep learning solutions to the military’s toughest problems. I am deeply interested in cutting-edge natural language processing and deep learning research. 
 
 I received a Ph.D. in Computer Science at the University of Central Florida. My research interests include Natural Language Processing, Automatic Text Summarization, and Deep Learning. I performed research under the advisement of [Dr. Fei Liu](http://www.cs.ucf.edu/~feiliu/) in the [UCF NLP group](http://www.nlp.cs.ucf.edu/).
 

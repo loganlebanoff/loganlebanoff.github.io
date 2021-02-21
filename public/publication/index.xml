@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Learning to Fuse Sentences with Transformers for Summarization</title>
+      <link>/publication/learning_to_fuse/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/learning_to_fuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Points of Correspondence between Sentences for Abstractive Summarization</title>
+      <link>/publication/poc/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/poc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analyzing Sentence Fusion in Abstractive Summarization</title>
       <link>/publication/faithful/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 -0400</pubDate>
