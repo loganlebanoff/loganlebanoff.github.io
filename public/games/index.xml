@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Logan Lebanoff</title>
+    <link>/games/</link>
+    <description>Recent content in Games on Logan Lebanoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/games/bcm2048/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/games/bcm2048/</guid>
+      <description>BCM 2048* {padding: 0;margin: 0;}html, body {background: #000;color: #fff;overflow: hidden;touch-action: none;-ms-touch-action: none;}canvas {touch-action-delay: none;touch-action: none;-ms-touch-action: none;}  // Issue a warning if trying to preview an exported project on disk.(function(){// Check for running exported on file protocolif (window.location.protocol.substr(0, 4) === &#34;file&#34;){alert(&#34;Exported games won&#39;t work until you upload them.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/games/flappyzach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/games/flappyzach/</guid>
+      <description>New project* {padding: 0;margin: 0;}html, body {background: #000;color: #fff;overflow: hidden;touch-action: none;-ms-touch-action: none;}canvas {touch-action-delay: none;touch-action: none;-ms-touch-action: none;}  // Issue a warning if trying to preview an exported project on disk.(function(){// Check for running exported on file protocolif (window.location.protocol.substr(0, 4) === &#34;file&#34;){alert(&#34;Exported games won&#39;t work until you upload them.</description>
+    </item>
+    
+  </channel>
+</rss>

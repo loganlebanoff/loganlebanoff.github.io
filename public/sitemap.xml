@@ -120,6 +120,22 @@
     
     <url>
     
+      <loc>/games/bcm2048/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/games/flappyzach/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/mydata/</loc>
     </url>
     
@@ -148,6 +164,15 @@
     <url>
     
       <loc>/data/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/games/</loc>
       <priority>0</priority>
     </url>
     
