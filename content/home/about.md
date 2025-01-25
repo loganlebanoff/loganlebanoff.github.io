@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Large Language Models",
     "Natural Language Processing",
-    "Automatic Text Summarization",
     "Deep Learning"
   ]
 
@@ -33,8 +33,6 @@ weight = 5
 
 # Biography
 
-Hi! My name is Logan Lebanoff and I am an Artificial Intelligence Engineer at [SoarTech](https://soartech.com/) in Orlando, FL. I help develop NLP and deep learning solutions to the military’s toughest problems. I am deeply interested in cutting-edge natural language processing and deep learning research. 
+Hi! My name is Logan Lebanoff and I am an Artificial Intelligence Engineer at [SoarTech](https://soartech.com/) in Orlando, FL. I have a Ph.D. in Computer Science and nine years of experience in AI research and industry. Passionate about bleeding-edge research and pushing the frontier of AI, I specialize in large language models (LLMs) and have led multiple AI projects to successful outcomes. I've published over 15 research papers including top NLP conferences like ACL, EMNLP, and NAACL.
 
-I received a Ph.D. in Computer Science at the University of Central Florida. My research interests include Natural Language Processing, Automatic Text Summarization, and Deep Learning. I performed research under the advisement of [Dr. Fei Liu](http://www.cs.ucf.edu/~feiliu/) in the [UCF NLP group](http://www.nlp.cs.ucf.edu/).
-
-My Ph.D. research focused on abstractive summarization of news articles. More specifically, I worked on sentence fusion in summarization. Current abstractive summarizers often perform well at taking important sentences from the document and compressing each sentence. However, they still struggle with fusing multiple sentences together in a coherent manner, and they often generate incorrect facts. In my dissertation, I presented several methods to improve sentence fusion.
+I received a Ph.D. in Computer Science at the University of Central Florida. My research interests include Large Language Models, Natural Language Processing, and Deep Learning. I performed research under the advisement of [Dr. Fei Liu](https://www.cs.emory.edu/~fliu40/) in the UCF NLP group. My Ph.D. research focused on abstractive summarization of news articles using sentence selection and fusion.
